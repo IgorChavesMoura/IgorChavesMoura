@@ -1,10 +1,10 @@
 ### 🐱‍👤
 
- <div>
+<div>
   <a href="https://github.com/IgorChavesMoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorChavesMoura&layout=compact&langs_count=7&theme=dracula&exclude_repo=DeepLearning-TensorFlow,Machine-Learning-UFC,Auto-Encoders-Keras"/>
 </div>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
