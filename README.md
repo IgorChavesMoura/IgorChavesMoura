@@ -1,5 +1,3 @@
-### 🐱‍👤
-
 <div>
   <a href="https://github.com/IgorChavesMoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorChavesMoura&layout=compact&langs_count=7&theme=dracula&exclude_repo=DeepLearning-TensorFlow,Machine-Learning-UFC,Auto-Encoders-Keras"/>
